@@ -1,4 +1,4 @@
-# hola-mundo
-Mi primer repositorio
+# Hola Mundo
+Mi primer repositorio.
 Nombre: Jose
-FEcha: 09/02/2022
+Fecha: 09/02/2022
